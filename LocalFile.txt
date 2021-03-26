@@ -1,1 +1,2 @@
 Step#1Sandip cloned repository and changed code and edited file and commited and oushed to remote repository
+Step#2 Some one other made changes at Remote Repository which are now not at local of sandips local repository
